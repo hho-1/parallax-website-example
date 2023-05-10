@@ -12,5 +12,3 @@ https://hho-1.github.io/parallax-website-example/
 - CSS setting height and width
 - CSS outline
 - CSS Combinators
-
-# parallax-website-example
