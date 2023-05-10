@@ -5,7 +5,7 @@ On the project a template website has been created using CSS background parallax
 ## Project
 ![Project preview is below:](./Paralaks-Web-Sitesi.gif)
 https://hho-1.github.io/parallax-website-example/
-### At the end of the project, following topics will be covered:
+### At the end of the project, following topics have been covered:
 - HTML
 - List Properties
 - Overflow property - The float property-opacity / transparncy-units in CSS
